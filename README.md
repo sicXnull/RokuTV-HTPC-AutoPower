@@ -10,7 +10,6 @@ This is setup on windows but extremely easy to setup on Linux/MacOS as well.
 
 ## Setup
 
-bat scripts:
 Grab IP address of RokuTV (static IP recommended)
 
 
